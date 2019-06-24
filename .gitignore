@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+package-lock.json
+
+railroadcrossing-1555889111567-firebase-adminsdk-4nx2c-cbfc49290f.json
